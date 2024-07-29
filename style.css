@@ -1,11 +1,25 @@
-body { 
-      text-align: center; 
-      background-color: darkseagreen; 
-      font-family: Arial, sans-serif;
-      margin: 10%;
+header {
+    margin: 5% 5% 0%;
+    border: 2px solid black;
+    padding: 5% 10% 5% 5%;
+    background-color: navy;
     }
-
-    li { 
-      list-style-type: none; 
-      padding: 10px; 
-    }
+h1 {
+    font-family: 'oswald', sans-serif;
+    color: white;
+}
+h2 {
+    font-family: 'oswald', sans-serif;
+    color: black;
+}
+main {
+    margin: 0 5%;
+    border: 2px solid black;
+    padding: 5%;
+    background-color: lightsteelblue;
+    font-family: 'average' sans-serif;
+    color: black;
+}
+footer {
+    text-align: center;
+}

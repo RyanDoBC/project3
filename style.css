@@ -12,6 +12,10 @@ h2 {
     font-family: 'oswald', sans-serif;
     color: black;
 }
+h3 {
+    font-family: 'oswald', sans-serif;
+    color: black;
+}
 main {
     margin: 0 5%;
     border: 2px solid black;
@@ -19,6 +23,7 @@ main {
     background-color: lightsteelblue;
     font-family: 'average' sans-serif;
     color: black;
+    text-align: left;
 }
 footer {
     text-align: center;

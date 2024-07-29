@@ -1,9 +1,10 @@
 header {
-    margin: 5% 5% 0%;
+    margin: 5% 5% 2%;
     border: 2px solid black;
     padding: 5% 10% 5% 5%;
     background-color: navy;
-    }
+    max-width: 375px;
+}
 h1 {
     font-family: 'oswald', sans-serif;
     color: white;
@@ -24,6 +25,48 @@ main {
     font-family: 'average' sans-serif;
     color: black;
     text-align: left;
+    max-width: 30em;
+
+}
+#first{
+    border: 1px solid black;
+    padding: 10%
+}
+#img1{
+    float: right;
+    margin-right: 10px
+}
+#second{
+    border: 1px solid black;
+    padding: 10%
+}
+#img2{
+    float: right;
+    margin-left: 10px
+}
+#third{
+    border: 1px solid black;
+    padding: 10%
+}
+#img3{
+    float: right;
+    margin-right: 10px
+}
+#fourth{
+    border: 1px solid black;
+    padding: 10%
+}
+#img4{
+    float: right;
+    margin-left: 10px
+}
+#fifth{
+    border: 1px solid black;
+    padding: 10%
+}
+#img5{
+    float: right;
+    margin-right: 10px
 }
 footer {
     text-align: center;
